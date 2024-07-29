@@ -1,0 +1,1 @@
+DELETe FROM Pessoa;
